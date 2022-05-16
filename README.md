@@ -1,4 +1,4 @@
-# 🌐 AI-Enabled FinTech B2B Invoice Management Application 
+# 🤖 AI-Enabled FinTech B2B Invoice Management Application 
 ### (Still Under Development)
 
 
@@ -6,12 +6,12 @@
 
 
 
-## 🗒️ Introduction to B2B Operations
+## 🤓 Introduction
 
-The B2B world operates differently from the B2C or C2C world. Businesses work with other businesses on credit. When a buyer business orders goods from the seller business, the seller business issues an invoice for the same. This invoice for the goods contains various information like the details of the goods purchased and when it should be paid. This is known in accounting terminology as “Accounts Receivable”
+Businesses work with other businesses on credit. When a buyer business orders goods from the seller business, the seller business issues an invoice for the same. This invoice for the goods contains various information like the details of the goods purchased and when it should be paid. This is known in accounting terminology as “Accounts Receivable”.
 
 ---
-## ❓ Problem Statement
+## 🤷‍♂️ Problem Statement
 
 - In the ideal world, the buyer business should payback within the stipulated time (i.e. the Payment Term). However, in the real world, the buyer business seldom pays within their established time frame, and this is where the Account receivables Department comes into picture.
 - Every business consists of a dedicated Account receivables Department to collect and track payment of invoices.
@@ -26,16 +26,16 @@ The B2B world operates differently from the B2C or C2C world. Businesses work wi
 ---
 
 
-## :fire: Features
+## 🥷 Features
 
 - Machine Learning Model to predict the payment date of an invoice when it gets created in the system.
 - A Receivables Dashboard to visualize data in the form of grids.
-- ADD, EDIT and DELETE functionalities.
+- ADD, EDIT, DELETE, SEARCH and PREDICT functionalities.
 - Easy naviagtion implemented through pagination.
 
 ---
 
-## :bulb: Technologies Used
+## 👨‍💻 Technologies Used
 
 ### Machine Learning
 
