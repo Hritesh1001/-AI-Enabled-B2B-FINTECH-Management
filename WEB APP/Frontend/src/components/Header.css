@@ -1,0 +1,62 @@
+.header-1 {
+  display: flex;
+  flex-direction: row;
+  overflow: hidden;
+  background-color: rgba(43, 65, 80, 255);
+  height: 160px;
+}
+
+.logo-1 {
+  width: auto;
+  height: 50px;
+  margin: 0 auto 100% 0;
+}
+
+.logo-2 {
+  width: auto;
+  height: 50px;
+  margin: 0 40% 100% auto;
+}
+
+.container {
+  position: absolute;
+  top: 115px;
+  width: 100%;
+}
+
+/*
+.header-2 {
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  top: 90px;
+  width: 100%;
+}
+*/
+.btn {
+  background-color: rgb(73, 73, 251);
+  width: calc(100%);
+  height: 36px;
+  /* padding: 5px; */
+  display: flex;
+  cursor: pointer;
+  align-items: center;
+  margin-left: 13px;
+  text-align: center;
+  justify-content: center;
+  margin-top: 0px;
+}
+
+.btn-1 {
+  width: calc(13%);
+  cursor: pointer;
+}
+
+.btn-2 {
+  cursor: pointer;
+  width: calc(11%);
+  margin-left: calc(5.5%);
+  margin-right: calc(5.5%);
+  align-items: center;
+  white-space: nowrap;
+}

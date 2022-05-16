@@ -1,0 +1,14 @@
+.footer-container {
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  top: 40px;
+  position: reative;
+  /* background-color: red; */
+  padding: 20px;
+}
+
+.inner-text {
+  display: inline;
+  color: blue;
+}
