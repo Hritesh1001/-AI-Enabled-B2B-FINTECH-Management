@@ -26,7 +26,7 @@ Businesses work with other businesses on credit. When a buyer business orders go
 ---
 
 
-## 🥷 Features
+## 🎁 Features
 
 - Machine Learning Model to predict the payment date of an invoice when it gets created in the system.
 - A Receivables Dashboard to visualize data in the form of grids.
@@ -35,7 +35,7 @@ Businesses work with other businesses on credit. When a buyer business orders go
 
 ---
 
-## 👨‍💻 Technologies Used
+## 👨‍💻 Technologies
 
 ### Machine Learning
 
